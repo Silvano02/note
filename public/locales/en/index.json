@@ -1,0 +1,19 @@
+{
+  "newFolder": "Add new folder",
+  "noFolders": {
+    "title": "No folders yet",
+    "subtitle": "press + Add new folder to create a new one"
+  },
+  "noNotes": {
+    "title": "Nothing here yet",
+    "subtitle": "press + to create a new note"
+  },
+  "logout": "Logout",
+  "folderDropdown": {
+    "rename": "Rename folder",
+    "delete": "Delete Folder"
+  },
+  "changeLanguage": "Change language to Italian",
+  "setDark": "Set dark theme",
+  "setLight": "Set light theme"
+}

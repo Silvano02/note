@@ -1,0 +1,19 @@
+{
+  "newFolder": "Aggiungi cartella",
+  "noFolders": {
+    "title": "Ancora nessuna cartella",
+    "subtitle": "premi + Aggiungi cartella per crearne una nuova"
+  },
+  "noNotes": {
+    "title": "Qui ancora niente",
+    "subtitle": "premi + per creare una nuova nota"
+  },
+  "logout": "Esci",
+  "folderDropdown": {
+    "rename": "Rinomina cartella",
+    "delete": "Elimina cartella"
+  },
+  "changeLanguage": "Cambia lingua in Inglese",
+  "setDark": "Imposta il tema scuro",
+  "setLight": "Imposta il tema chiaro"
+}
