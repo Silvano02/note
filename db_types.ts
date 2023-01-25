@@ -1,5 +1,3 @@
-yarn run v1.22.19
-$ /Users/silvanobonino/Projects/note/node_modules/.bin/supabase gen types typescript --local
 export type Json =
   | string
   | number
@@ -235,5 +233,3 @@ export interface Database {
     }
   }
 }
-
-Done in 3.26s.
